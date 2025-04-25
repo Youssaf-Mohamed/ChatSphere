@@ -1,7 +1,6 @@
-# File: server.py
 # Description: A TCP-based chat server that handles user registration, authentication, and message broadcasting.
-# Author: [Your Name]
-# Created: [Creation Date]
+# Author: Yosif Mohamed
+# Created: 25 Apr 2025
 # Dependencies: socket, threading, json, sqlite3, datetime, contextlib
 
 import socket
